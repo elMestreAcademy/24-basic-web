@@ -1,0 +1,31 @@
+
+#ide {
+    text-align: right;
+}
+
+.titular {
+    color: greenyellow;
+    font-size: 2rem;
+    background-color: darkslategray;
+}
+
+.clase {
+    color: chocolate;
+    text-align: center;
+}
+
+.rojo {
+    color: red;
+}
+
+body { background-color: #3c2e2f; }
+
+
+
+
+
+
+
+
+
+
