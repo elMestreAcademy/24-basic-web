@@ -1,6 +1,5 @@
-
-#ide {
-    text-align: right;
+body { 
+    background-color: #3c2e2f; 
 }
 
 .titular {
@@ -18,14 +17,6 @@
     color: red;
 }
 
-body { background-color: #3c2e2f; }
-
-
-
-
-
-
-
-
-
-
+#ide {
+    text-align: right;
+}
